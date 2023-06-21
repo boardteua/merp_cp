@@ -1,2 +1,2 @@
 # merp_cp
- Add ability to set custom membership price for wp users
+A simple plugin that allows to add ability to set custom membership price for wp users.
