@@ -22,7 +22,6 @@ class merp_cp
     /**
      * The unique instance of the plugin.
      *
-     * @var org_custom_shortcode
      */
     private static $instance = null;
 
